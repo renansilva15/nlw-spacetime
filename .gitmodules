@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/renansilva15/nlw-spacetime-server
+[submodule "web"]
+	path = web
+	url = https://github.com/renansilva15/nlw-spacetime-web
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/renansilva15/nlw-spacetime-mobile
