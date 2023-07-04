@@ -7,3 +7,12 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/renansilva15/nlw-spacetime-mobile
+[submodule "nlw-spacetime-server"]
+	path = nlw-spacetime-server
+	url = https://github.com/renansilva15/nlw-spacetime-server.git
+[submodule "nlw-spacetime-web"]
+	path = nlw-spacetime-web
+	url = https://github.com/renansilva15/nlw-spacetime-web
+[submodule "nlw-spacetime-mobile"]
+	path = nlw-spacetime-mobile
+	url = https://github.com/renansilva15/nlw-spacetime-mobile
