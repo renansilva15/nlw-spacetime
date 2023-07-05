@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://youtu.be/TvWS_5B5R1I" target="_blank">
+  <a target="_blank" href="https://youtu.be/TvWS_5B5R1I">
     <img src=".github/assets/preview.png" alt="NLW Spacetime preview" style="width: 80%;">
   </a>
 
