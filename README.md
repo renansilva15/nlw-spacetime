@@ -34,4 +34,4 @@ This project is registered under the MIT license.
 
 ---
 
-Made with ❤️ by Renan Gabriel
+Made with ❤️ by [renansilva15](https://github.com/renansilva15)
